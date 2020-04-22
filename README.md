@@ -14,7 +14,7 @@ Azure Storage Web Explorer makes it easier for developers to browse and manage B
 
 To login just enter your account name and key or SAS ([Shared Access Signature](https://docs.microsoft.com/en-us/azure/storage/storage-create-storage-account#manage-your-storage-account))
 
-![Screenshot](https://github.com/sebagomez/azurestorageexplorer/blob/master/res/GitMain.png?raw=true)
+![Screenshot](https://github.com/sebagomez/azurestorageexplorer/blob/master/res/NewMainScreen.png?raw=true)
 
 
 **Blobs**: Create public or private Containers and Blobs (only BlockBlobs for now). Download or delete your blobs.
@@ -72,4 +72,4 @@ If you want to run this site on your own environment, don't want to clone it, an
 
 Kestrell will kick in and you'll see in the terminal what port number was asigned, navigate to that port, in my case http://localhost:5000 and that's it!
 
-![CMD](./res/local_run.png)
+![CMD](https://github.com/sebagomez/azurestorageexplorer/blob/master/res/local_run.png?raw=true)
